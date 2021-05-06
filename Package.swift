@@ -35,7 +35,6 @@ let package = Package(
                 "README.md",
                 "LICENSE"
             ],
-            resources: [],
             cSettings:[
                 .headerSearchPath("GCDWebServer/Core"),
                 .headerSearchPath("GCDWebServer/Requests"),
